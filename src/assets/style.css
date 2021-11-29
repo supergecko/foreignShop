@@ -1,0 +1,123 @@
+.header {
+    height: 100px;
+    background: #FFDF2D;
+}
+
+.mainHeader {
+    width: 1200px;
+    height: 46px;
+    margin: 0 auto;
+    padding: 27px 0;
+    display: flex;
+    align-items: center;
+}
+
+.img1 {
+    width: 140px;
+    height: 80px;
+    display: flex;
+    cursor: pointer;
+}
+
+.img2 {
+    width: 45px;
+    height: 45px;
+    margin-left: 15px;
+}
+.signBox{
+    display: flex;
+}
+.signBox .book {
+    cursor: pointer;
+}
+.register {
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 400;
+    color: #3E7BFF;
+    line-height: 46px;
+    margin: 0 10px;
+}
+
+.signIn {
+    width: 97px;
+    height: 44px;
+}
+
+.mainHeader input {
+    width: 720px;
+    height: 46px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    /*margin-left: 56px;*/
+}
+
+.book {
+    /* display: flex; */
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 300;
+    color: #212121;
+    line-height: 46px;
+    cursor: pointer;
+}
+
+/* footer */
+.footer {
+    height: 340px;
+    background-color: white;
+}
+
+.minFooter {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+
+.minFooter ul {
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 400;
+    color: #7F7F7F;
+    float: left;
+    list-style: none;
+}
+
+.minFooter ul:nth-child(2) {
+    margin-left: 135px;
+}
+
+.minFooter ul:nth-child(3) {
+    margin-left: 82px;
+}
+
+.minFooter ul:nth-child(4) {
+    margin-left: 59px;
+    border-left: 1px solid #eee;
+    padding-left: 10px;
+}
+
+.minFooter ul li {
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 400;
+    color: #7F7F7F;
+}
+
+.minFooter ul li:nth-child(1) {
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: 400;
+    color: #333333;
+}
+
+.minFooter ul li:nth-child(2) {
+    margin-top: 55px;
+}
+
+.foooterInput {
+    margin: 10px 0;
+    width: 280px;
+    height: 40px
+}
