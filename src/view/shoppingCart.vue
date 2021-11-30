@@ -294,7 +294,8 @@ export default {
       cartList: [],
       newww: false,
       oldd: true,
-      url: 'http://shop.xlhack.cn/',
+      //url: 'http://shop.xlhack.cn/',
+	  url: 'http://106.52.200.225/',
       settlement2: false,
       num:'',
       sumList: 0

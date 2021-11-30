@@ -339,7 +339,7 @@ export function comments(data) {
 export function num(data) {
 	return request({
 		url: '/api/cart/num',
-		method: 'get',
+		method: 'GET',
 		data
 	})
 }

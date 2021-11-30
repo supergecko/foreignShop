@@ -11,7 +11,7 @@
 //         break
 // }
 // const baseUrl = "http://shop.xlhack.cn/"
-const baseUrl = " http://106.52.173.123:86"
+const baseUrl = "http://106.52.200.225"
 const imgBaseUrl = baseUrl + ""
 const token = ""
 
